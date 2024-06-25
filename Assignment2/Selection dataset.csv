@@ -1,0 +1,9 @@
+Player,Local Season Average,Foreign Season Performance,Fitness Test,Decision
+P1,40+,Good,Acceptable fitness,Selected
+P2,40+,Poor,Acceptable fitness,Not selected
+P3,60+,Good,Acceptable fitness,Selected
+P4,60+,Poor,Acceptable fitness,Selected
+P5,40+,Good,Needs more fitness,Not selected
+P6,40+,Poor,Needs more fitness,Not selected
+P7,60+,Good,Needs more fitness,Not selected
+P8,60+,Poor,Needs more fitness,Not selected
